@@ -1,6 +1,6 @@
 # odin-landing-page
 <h2>Creating an entire web page from a provided design.</h2>
-<p><em>This is the second project I'll be going through for The Odin Project!</em></p>
+<p><em>This is the second project I'll be going through for </em><a href="https://www.theodinproject.com/">The Odin Project</a>!</p>
 <h3>Criteria Requirements:</h3>
 <ul>
   <li>Get the project as close as possible to the <a href="https://github.com/thejourneyville/odin-landing-page/blob/main/source-images/odin-project-landing-page-original-image.png">provided design</a>.</li>
