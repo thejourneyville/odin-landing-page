@@ -1,7 +1,7 @@
 /* GLOBAL */
 
 body {
-    background-color:#1F2937;
+    background-color:#231f37;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -11,11 +11,11 @@ body {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
     margin: 10px 200px 0px 200px;
     height: 65px;
-    min-width: 680px;
-    column-gap: 121px;
+    min-width: 550px;
+    column-gap: 25px;
 }
 
 .header-logo {
@@ -84,7 +84,7 @@ a {
     font-size: 18px;
     font-weight: 700;
     color: #E5E7EB;
-    background: #3882F6;
+    background: #4838f6;
     border-radius: 8px;
     border: none;
     padding: 7px 30px;
@@ -97,4 +97,5 @@ a {
     height: 225px;
     background: #747476;
     color: #E5E7EB;
+    border-radius: 8px;
 }
