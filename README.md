@@ -8,4 +8,11 @@
 <h3>first impressions:</h3>
 <p>This looks like a good flexbox exercise, and I'm excited to put to use the things I've learned thus far. If I have the chance I would also like to personalize the page. For example inserting actual images in the placeholders, and playing with the colors and fonts a bit too.</p>
 
-<p>updates to come!</p>
+<ul><h2>updates 1/5/22</h2>
+  <li>added header</li>
+  <li>added hero unit</li>
+  <li>added information unit</li>
+</ul>
+
+<p>next up is the quote.</p>
+
