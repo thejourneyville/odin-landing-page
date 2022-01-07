@@ -42,6 +42,7 @@ body {
     font-size: 14px;
     font-weight: 300;
     padding-left: 3px;
+    color: #ffd39a;
 }
 
 ul {
@@ -49,9 +50,9 @@ ul {
     margin: 0;
 }
 
-a {
-    color: #ffd39a;
+.header ul li a {
     text-decoration: none;
+    color: #ffa32a;
 }
 
 
@@ -86,6 +87,7 @@ a {
 .hero-description {
     /* border: 1px solid white; */
     flex: 1;
+    padding-bottom: 10px;
     font-size: 18px;
     font-weight: 300;
     color: #ffa32a;
@@ -95,7 +97,7 @@ a {
     font-size: 18px;
     font-weight: 700;
     color: #E5E7EB;
-    background: #f2004d;
+    background: #39475b;
     border-radius: 8px;
     border: none;
     padding: 7px 30px;
@@ -109,7 +111,7 @@ a {
     background: #747476;
     color: #E5E7EB;
     border-radius: 8px;
-    border: 1px solid #ffa32a;
+    border: 1px solid #39475b;
 }
 
 
@@ -117,7 +119,7 @@ a {
 
 .information-unit {
     /* border: 2px solid rgb(255, 204, 0); */
-    padding: 25px 200px 150px;
+    padding: 50px 200px 100px;
     min-width: 450px;
     background:#875715;
     display: flex;
@@ -154,11 +156,45 @@ a {
     object-position: center 100%;
     border-radius: 8px;
     margin-bottom: 10px;
-    border: 1px solid #ffa32a;
+    border: 1px solid #39475b;
 }
 
 .information-description {
     /* border:1px solid green; */
     text-align: center;
     color: #ffd39a;
+}
+
+/* QUOTE UNIT */
+
+.quote-unit {
+    padding: 150px 200px 150px;
+    background:#a78049;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-content {
+    max-width: 900px;
+}
+
+.quote-quote {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 700;
+    color: #39475b;
+}
+
+.quote-author {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: right;
+    margin-top: 10px;
+}
+
+.quote-author a {
+    /* text-decoration: none; */
+    color: #39475b;
 }
