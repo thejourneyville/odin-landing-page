@@ -168,13 +168,18 @@ ul {
 /* QUOTE UNIT */
 
 .quote-unit {
+    /* border: 1px dotted green; */
     padding: 150px 200px 150px;
     background:#a78049;
     display: flex;
     justify-content: center;
+    min-width: 450px;
 }
 
 .quote-content {
+    margin: 0px 100px;
+    /* border: 1px dotted green; */
+    min-width: 450px;
     max-width: 900px;
 }
 
@@ -195,6 +200,58 @@ ul {
 }
 
 .quote-author a {
-    /* text-decoration: none; */
     color: #39475b;
+}
+
+
+/* CALL TO ACTION UNIT */
+
+.cta-unit {
+    /* border: 3px dotted green; */
+    padding: 50px 200px 50px;
+    min-width: 450px;
+    background:#d5a45f;
+    display: flex;
+    justify-content: center;
+}
+
+.cta-content {
+    /* border: 1px dotted green; */
+    margin: 0px 150px 0px 150px;
+    min-width: 400px;
+    display: flex;
+    flex-flow: row wrap;
+    column-gap: 150px;
+    row-gap: 30px;
+    background: #ffc472;
+    padding: 25px 50px 40px;
+    border-radius: 8px;
+
+}
+
+.cta-leftside {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.cta-header {
+    font-family: Romanesco, 'Times New Roman', Times, serif;
+    color: #39475b;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.cta-subheader {
+    color: #39475b;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.cta-rightside {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.cta-rightside .hero-button {
 }
