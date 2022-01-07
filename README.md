@@ -14,5 +14,10 @@
   <li>added information unit</li>
 </ul>
 
-<p>next up is the quote.</p>
+<ul><h2>updates 1/6/22</h2>
+  <li>added quote unit</li>
+  <li>added call to action unit</li>
+  <li>updated color scheme</li>
+  <li>adjusted flex, margin, padding settings</li>
+</ul>
 
