@@ -8,16 +8,11 @@
 <h3>first impressions:</h3>
 <p>This looks like a good flexbox exercise, and I'm excited to put to use the things I've learned thus far. If I have the chance I would also like to personalize the page. For example inserting actual images in the placeholders, and playing with the colors and fonts a bit too.</p>
 
-<ul><h2>updates 1/5/22</h2>
-  <li>added header</li>
-  <li>added hero unit</li>
-  <li>added information unit</li>
-</ul>
+<h3>thoughts after completion:</h3>
+<p>I found this project a lot of fun to work on! And TOP really helped to prepare the necessary knowledge to complete it. One frustrating thing was working with flexbox with one block working with others (ie: maintaining margins as I drag the window to reduce its size, which somehow occasionally reduced the margin size)</p>
 
-<ul><h2>updates 1/6/22</h2>
-  <li>added quote unit</li>
-  <li>added call to action unit</li>
-  <li>updated color scheme</li>
-  <li>adjusted flex, margin, padding settings</li>
-</ul>
+<p>Overall I enjoyed the creative process of laying out the components as well as choosing fonts and a color scheme. Flexbox is really powerful and I hope to continue practicing with it in future projects to get a more confident grasp of it.</p>
+
+<p>Thanks for checking out my project, and see you next time!</p>
+<h3><em>benny</em></h3>
 
